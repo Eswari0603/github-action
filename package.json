@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-demo-app",
+  "name": "github-action",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
